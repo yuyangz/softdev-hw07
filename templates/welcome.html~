@@ -1,0 +1,14 @@
+
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Form</title>
+  </head>
+  <body>
+    <h1>Enter your username</h1>
+    <form action = "/end" method = "GET">
+      Username: <input type = "text" name ="username">
+      <input type = "submit" value = "Submit">
+      </form>
+  </body>
+</html>
